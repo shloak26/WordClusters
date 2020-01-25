@@ -1,0 +1,11 @@
+,Cluster,Top 5 features,Feature Values
+0,Cluster = 1,"['tea', 'green', 'teas', 'flavor', 'drink']",[0.459545   0.06225923 0.05758051 0.04820956 0.04423369]
+1,Cluster = 2,"['good', 'taste', 'great', 'flavor', 'love']",[0.04555092 0.0450846  0.04108575 0.03863457 0.03300075]
+2,Cluster = 3,"['coffee', 'cup', 'flavor', 'strong', 'cups']",[0.38465047 0.09591708 0.05165996 0.05091859 0.05068615]
+3,Cluster = 4,"['chocolate', 'dark', 'bar', 'taste', 'hot']",[0.36470192 0.06132666 0.04976675 0.04893634 0.04729326]
+4,Cluster = 5,"['chips', 'potato', 'bag', 'salt', 'chip']",[0.42855017 0.08482527 0.06600909 0.06056741 0.05968296]
+5,Cluster = 6,"['food', 'cat', 'cats', 'eat', 'dog']",[0.30508847 0.18272657 0.12675294 0.05822647 0.04040217]
+6,Cluster = 7,"['product', 'great', 'good', 'will', 'taste']",[0.25059213 0.06017683 0.04443141 0.03512397 0.03344685]
+7,Cluster = 8,"['dog', 'treats', 'dogs', 'treat', 'loves']",[0.27824607 0.16431218 0.14016352 0.07600202 0.07558793]
+8,Cluster = 9,"['cookies', 'cookie', 'chocolate', 'gluten', 'free']",[0.42348104 0.10352391 0.05243283 0.04920537 0.04648648]
+9,Cluster = 10,"['amazon', 'price', 'find', 'store', 'stores']",[0.11845581 0.10405672 0.07752314 0.06661096 0.04928073]
